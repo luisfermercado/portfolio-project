@@ -12,3 +12,5 @@ db.sqlite3
 /media
 /static
 
+###La carpeta .Git es "invisible" en algunos editores, ejemplo: VSCode
+
